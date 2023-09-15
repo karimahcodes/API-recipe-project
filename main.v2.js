@@ -1,3 +1,5 @@
+// alternative method for arrabiata function
+
 const INGREDIENT_PREFIX = 'strIngredient';
 const button = document.querySelector('button').addEventListener('click', getRandomMeal);
 
